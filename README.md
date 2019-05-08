@@ -63,7 +63,10 @@ Step by step:
   3. Insert the classes in the file **class_list.txt** (one class name per line)
   4. Run the code:
 
-         python main.py [-h] [-i] [-o] [-t]
+         python main.py 
+         
+         
+         [-h] [-i] [-o] [-t]
 
          optional arguments:
           -h, --help                Show this help message and exit
