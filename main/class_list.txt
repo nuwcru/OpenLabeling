@@ -1,4 +1,2 @@
-human
-billiard ball
-donut
-rabbit
+adult
+nestling
